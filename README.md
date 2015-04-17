@@ -1,2 +1,7 @@
 # ozwillo-issues
-Repository used to collect any issue met on the ozwillo platform.
+
+It's sometimes hard to known the origin of a bug (Kernel, Portal, Datacore, documentation... or provider application) so this is the entry point to collect all issues before analysis, commenting and dispatching.
+
+It can also be used to collect ideas.
+
+[Browse issues](https://github.com/ozwillo/ozwillo-issues/issues)
