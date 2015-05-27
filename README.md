@@ -1,9 +1,13 @@
-# ozwillo-issues
+## Ozwillo Issues
 
-It's sometimes hard to known the origin of a bug (Kernel, Portal, Datacore, documentation... or provider application) so this is the entry point to collect all issues before analysis, commenting and dispatching.
+If you encounter a problem using Ozwillo's portal, open an issue [here](https://github.com/ozwillo/ozwillo-issues/issues).
 
-It can also be used to collect ideas.
+If the problem is met when using an application installed from Ozwillo, please contact the application provider support.
 
-[Browse issues](https://github.com/ozwillo/ozwillo-issues/issues)
+## Other Information Channels
 
-**For security-related issues**, please contact us and describe the problem on this private list: ozwillo-security@googlegroups.com 
+**To follow Ozwillo's platform enhancements**, you may follow and contribute to [ozwillo-core@googlegroups.com](https://groups.google.com/forum/?hl=fr#!forum/ozwillo-core) 
+
+**For open discussions, questions, ideas**, you may follow and contribute to [ozwillo-talk@googlegroups.com](https://groups.google.com/forum/?hl=fr#!forum/ozwillo-talk) 
+
+**For security-related issues**, send an email to this private list: ozwillo-security@googlegroups.com 
