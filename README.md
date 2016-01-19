@@ -11,3 +11,5 @@ If the problem is met when using an application installed from Ozwillo, please c
 **For open discussions, questions, ideas**, you may follow and contribute to [ozwillo-talk@googlegroups.com](https://groups.google.com/forum/?hl=fr#!forum/ozwillo-talk) 
 
 **For security-related issues**, send an email to this private list: ozwillo-security@googlegroups.com 
+
+**For support when integrating your application with Ozwillo**, you may ask for help in  [ozwillo-app-providers-support@googlegroups.com](https://groups.google.com/forum/#!forum/ozwillo-app-providers-support) 
